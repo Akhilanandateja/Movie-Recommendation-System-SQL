@@ -1,7 +1,7 @@
 CREATE DATABASE movie_db;
 USE movie_db;
 
-CREATE TABLE users(user_id INT PRIMARY KEY,name VARCHAR(50),age INT);
+CREATE TABLE users(user_id INT PRIMARY KEY, name VARCHAR(50),age INT);
 
 CREATE TABLE movies(movie_id INT PRIMARY KEY,title VARCHAR(100),genre VARCHAR(50));
 
