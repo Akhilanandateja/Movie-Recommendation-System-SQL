@@ -34,22 +34,14 @@ It stores user information, movies, ratings, and watch history, and performs ana
 ### Table Creation
 ![Tables](images/tables_creation.png)
 
-### Insert Data 1
+### Insert Data into Tables
 ![Insert1](images/insert1.png)
-
-### Insert Data 2
 ![Insert2](images/insert2.png)
-
-### Insert Data 3
 ![Insert3](images/insert3.png)
 
-### Display Tables (Users)
+### Display Tables
 ![Users Table](images/display_table1.png)
-
-### Display Tables (Movies)
 ![Movies Table](images/display_table2.png)
-
-### Display Tables (Ratings/History)
 ![Other Tables](images/display_table3.png)
 
 ### Top Rated Movies
